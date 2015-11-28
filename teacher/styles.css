@@ -1,0 +1,165 @@
+#cours .seccompleted td {
+    color: gray !important;
+}
+
+.breadcrumb-nav{
+    padding: 18px;
+}
+label {
+    display: inline !important;
+    margin-bottom: 5px;
+}
+.btn{
+    margin: 20px !important;
+    text-align: right !important;
+    margin-left: 87% !important;
+}
+.checkbox1{
+    margin-left: 15px !important;
+    margin-top: 2px !important;
+}
+
+.rdo{
+    margin: 5px 0px 5px 30px !important;
+}
+
+.sortdiv{
+    display: inline-block;
+}
+#rmv{
+    float:right;
+}
+#cousta{
+    margin-top: 10px;
+    display: inline-block;
+    height: 20px;
+    width: 150px;
+}
+
+.breadcrumb-nav{
+    padding: 18px;
+}
+label {
+    display: inline !important;
+    margin-bottom: 5px;
+}
+.btn{
+    margin: 20px !important;
+    text-align: right !important;
+    margin-left: 87% !important;
+}
+.checkbox1{
+    margin-left: 15px !important;
+    margin-top: 2px !important;
+}
+
+.rdo{
+    margin: 5px 0px 5px 30px !important;
+}
+
+.sortdiv{
+    display: inline-block;
+}
+#rmv{
+    float:right;
+}
+#cousta{
+    margin-top: 10px;
+    display: inline-block;
+    height: 20px;
+    width: 150px;
+}
+
+#selectlist1{
+    margin:10px;
+}
+a.current:link, a.current:visited {
+    background: #048EC7 linear-gradient(to bottom, #049CDB, #0378A9) repeat-x scroll left -1400px;
+    color: #FFF;
+    font-weight: bold;
+} /* unvisited and visited links*/
+
+.link{
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 0px;
+    border: solid 1px #20538D;
+    background: #FFF;
+    border-radius: 0px;
+    border: 1px solid #20538D;
+    background: #FFF none repeat scroll 0% 0%;
+    color: #2E8BC6;
+    padding: 8px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 5px 1px;
+}
+.link:hover{
+    text-decoration: none;
+    color: #2E8BC6;
+}
+#watchlist{
+    padding:10px;
+
+}
+
+#watchlist .yui3-skin-sam{
+    margin-top: 6px;
+    padding: 10px;
+    border: 1px solid #808080;
+    border-radius: 3px;
+}
+#wcontainer{
+    display: inherit;
+    overflow-y: scroll;
+    height: 350px;
+}
+
+.breadcrumb-nav {
+    padding: 18px !important;
+}
+.tabres {
+    margin: 0px 0px 10px 10px;
+}
+
+#courss .butn {
+    text-align: right !important;
+    margin: 0px 20px 20px 87% !important;
+}
+#cbody tr > td {
+    font-size: 15px !important;
+    color: #333 !important;
+}
+#cours thead tr th, table thead tr td {
+    font-size: 15px !important;
+    font-style: normal;
+}
+.link {
+    padding: 7px 10px !important;
+}
+
+/* New styles */
+
+.breadcrumb-nav {
+    padding: 10px !important;
+}
+
+.tabres {
+    margin: 0px 0px 0px 10px;
+}
+
+#cours  tr td {
+    border: 0px none;
+    padding: 2px 8px !important;
+    vertical-align: middle;
+}
+#cours td {
+    font-size: 12px !important;
+}
+#cours td a{
+    font-size: 12px !important;
+
+}
+#cbody tr > td {
+    font-size: 12px !important;
+}

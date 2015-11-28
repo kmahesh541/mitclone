@@ -1,0 +1,177 @@
+/****************************** NORMAL CSS ************************************/
+.tbl tr:first-child th {
+    text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.25);
+    background-color: #0362A9;
+    background-image: linear-gradient(to bottom, #0378A9, #0341A9);
+    background-repeat: repeat-x;
+    border-style: solid;
+    border-color: #C4BABA;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    text-align: center;
+    border-width: 0px 0px 1px 1px;
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #FFF;
+}
+.tbl td {
+    vertical-align: middle;
+    border-style: solid;
+    border-color: #C4BABA;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    border-width: 0px 1px 1px 0px;
+    text-align: left;
+    padding: 0px 8px;
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: normal;
+    color: #000;
+}
+.tbl td {
+padding: 5px 8px !important;
+    line-height: 15px !important;
+
+}
+.tbla tr:first-child th {
+    text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.25);
+    background-color: #0362A9;
+    background-image: linear-gradient(to bottom, #0378A9, #0341A9);
+    background-repeat: repeat-x;
+    border-style: solid;
+    border-color: #C4BABA;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    text-align: center;
+    border-width: 0px 0px 1px 1px;
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #FFF;
+}
+.tbla td {
+    vertical-align: middle;
+    border-style: solid;
+    border-color: #C4BABA;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    border-width: 0px 1px 1px 0px;
+    text-align: left !important;
+    padding: 0px 8px;
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: normal;
+    color: #000;
+}
+.tbla td {
+padding: 5px 8px !important;
+    line-height: 15px !important;
+
+}
+.student-left{
+border-width: 0px 0px 0px 1px;
+border-style: none none none solid;
+border-color: -moz-use-text-color -moz-use-text-color -moz-use-text-color #000;
+-moz-border-top-colors: none;
+-moz-border-right-colors: none;
+-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+border-image: none;
+}
+.student-left{
+padding: 10px;
+}
+.todays-tests{
+    background: #FFF none repeat scroll 0% 0%;
+    border: 1px solid #666;
+    padding: 0px;
+
+}
+.performance{
+    background: #FFF none repeat scroll 0% 0%;
+    border: 1px solid #666;
+    padding: 0px;
+}
+/************* ACORDIAN STYLES *************/
+element {
+}
+.ui-accordion .ui-accordion-icons {
+    padding-left: 2.2em;
+}
+.ui-accordion .ui-accordion-header {
+    display: block;
+    cursor: pointer;
+    position: relative;
+    margin: 2px 0px 0px;
+    padding: 0.5em 0.5em 0.5em 0.7em;
+    min-height: 0px;
+    font-size: 100%;
+}
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+    border-bottom-right-radius: 4px;
+}
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl {
+    border-bottom-left-radius: 4px;
+}
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr {
+    border-top-right-radius: 4px;
+}
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl {
+    border-top-left-radius: 4px;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    border: 1px solid #D3D3D3 !important;
+    background: #E6E6E6 url("http://code.jquery.com/ui/1.11.4/themes/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png") repeat-x scroll 50% 50% !important; 
+    font-weight: normal !important;
+    color: #555 !important;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+    border: 1px solid #AAA !important;
+    background: #FFF url("http://code.jquery.com/ui/1.11.4/themes/smoothness/images/ui-bg_glass_65_ffffff_1x400.png") repeat-x scroll 50% 50% !important;
+    font-weight: normal !important;
+    color: #212121 !important;
+}
+.ui-state-active .ui-icon {
+    background-image: url("http://code.jquery.com/ui/1.11.4/themes/smoothness/images/ui-icons_454545_256x240.png") !important;
+}
+.ui-accordion .ui-accordion-content {
+    padding: 0px !important;
+}
+.ui-widget-content {
+    border: 1px solid #AAA !important;
+}
+.ui-accordion .ui-accordion-icons {
+    padding-left: 2.2em !important;
+}
+.taketest{
+ text-decoration: none; 
+font: 14px;
+    display: inline-block; padding: 2px 8px;
+   text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.25);
+background-color: #0362A9;
+color: #FFF !important;
+    border-style: solid; border-width: 2px;
+    
+}
+.taketest:hover{
+ text-decoration: none; 
+font: 14px;
+    display: inline-block; padding: 2px 8px;
+   text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.25);
+background-color: #0362A9;
+color: #FFF !important;
+    border-style: solid; border-width: 2px;
+}

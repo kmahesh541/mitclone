@@ -1,0 +1,565 @@
+/*************
+    Sai CSS
+   *************/
+@media screen and  (min-width: 640px) {
+    #page-login-index{
+        padding: 0px !important;
+    }
+}
+@media screen and  (max-width: 360px) {
+    #page-login-index #page{
+        margin: 0px !important;
+    }
+    #page-login-index{
+        padding: 0px !important;
+    }
+}
+@media screen
+and (min-device-width : 320px)
+and (max-device-width : 480px)
+and (orientation : portrait) {
+    #page-login-index {
+
+    }
+    #page-login-index #page {
+        border: 0px none;
+        margin:0px !important;
+    }
+
+}
+@media screen
+and (min-device-width : 320px)
+and (max-device-width : 480px)
+and (orientation : landscape) {
+    #page-login-index {
+
+    }
+    #page-login-index #page {
+        border: 0px none;
+        margin:0px !important;
+    }
+
+}
+@media screen
+and (min-device-width : 360px)
+and (max-device-width : 640px)
+and (orientation : portrait) {
+    #page-login-index {
+
+    }
+    #page-login-index #page {
+        border: 0px none;
+        margin:0px !important;
+    }
+    .path-teacher .navbar .btn-navbar {
+        display: none;
+    }
+    .path-teacher .navbar  .navbar-inner{
+        padding:0px;
+    }
+    #page{
+        margin: 0px !important;
+    }
+    #page-teacher-dashboard {
+
+        padding:0px !important;
+    }
+    .path-teacher{
+        padding: 0px 3px;
+    }
+    #courss .yui3-skin-sam {
+
+        padding: 0px;
+    }
+    .path-teacher #courss{
+        padding: 0px !important;
+    }
+    #demo #courss .butn {
+        margin: 0px 20px 20px 25% !important;
+    }
+    .cooursesel {
+        display: inline-block;
+        width: 100% !important;
+    }
+    .navbar .brand{
+        margin-left: 0px !important;
+        padding: 8px 0px !important;
+    }
+    .dir-ltr .usermenu{
+        margin-right: 0px !important;
+        margin-top:4px !important;
+    }
+    .navbar .btn-navbar{
+        display: none !important;
+    }
+    .navbar  .navbar-inner{
+        padding:0px !important;
+    }
+    .jsenabled .usermenu .moodle-actionmenu > .menubar {
+        display: block;
+        margin: 9px 0px 2px;
+    }
+    .path-student{
+        margin-top: 72px !important;
+    }
+    .path-mod-vpl{
+        padding: 0px;
+    }
+    .path-mod-quiz{
+        padding: 0px;
+    }
+    .jsenabled .usermenu .moodle-actionmenu .toggle-display.textmenu {
+        padding-right: 8px;
+        padding-left: 6px;
+    }
+    .search-table thead th:nth-child(1){
+        width: 5% !important;
+        font-size: 12px !important;
+    }
+    .search-table thead th:nth-child(2){
+        width: 10% !important;
+        font-size: 12px !important;
+    }
+    .search-table thead th:nth-child(3){
+        width: 85% !important;
+        font-size: 12px !important;
+        text-align: center;
+    }
+    .search-table #cbody tr > td{
+        font-size: 10px !important;
+    }
+    .reports-page .filters select {
+        width: 50% !important;
+    }
+    .reports-page .filters select:nth-child(odd){
+        float: left;
+    }
+    .reports-page .filters select:nth-child(even){
+        clear: left;
+        float: left;
+
+    }
+    .reports-page .radiv .eamrank{
+        width: 50% !important;
+    }
+    .reports-page #sradiv:nth-child(odd){
+        float: left;
+    }
+    .reports-page #sradiv:nth-child(even){
+        clear: left;
+        float: left;
+
+    }
+    .filters{
+        margin-left: 0px !important;
+    }
+    .reports-page .filters{
+        padding-bottom: 40px !important;
+    }
+    .reports-page .span2 #search{
+        margin-left: 0px !important;
+    }
+    #watchlist{
+        padding: 0px !important;
+    }
+    .report #panel .tleft {
+        width: 20% !important;
+    }
+    #panel .tright{
+        width: 76.5% !important;
+    }
+    .tright .topics-div tr td:nth-child(2){
+        width: 8% !important;
+    }
+    .report #panel .tleft {
+        width: 95% !important;
+    }
+    #panel .tright {
+        width: 100% !important;
+    }
+    #coursename {
+
+        height: 40px;
+
+        box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.6);
+        font-size: 17px;
+        font-weight: bold;
+        line-height: 43px;
+    }
+    #topicname {
+
+
+        height: 22px;
+
+        font-size: 12px;
+        font-weight: bold;
+
+
+    }
+    .topics-div tbody tr:nth-child(2){
+        font-size: 14px !important;
+    }
+    #log {
+        width: 100% !important;
+    }
+    #filterdiv {
+        width: 60% !important;
+    }
+    .topics-div #hide{
+        margin-left: 4% !important;
+    }
+
+    #page-navbar:nth-child(2) b {
+        font-size: 13px !important;
+        line-height: 18px;
+    }
+    #page-navbar:nth-child(2){
+        font-size: 10px !important;
+    }
+
+}
+@media screen
+and (min-device-width : 360px)
+and (max-device-width : 640px)
+and (orientation : landscape) {
+    #page-login-index #avatar-square{
+        height:100px !important;
+    }
+    #page-login-index #page {
+        border: 0px none;
+        margin:0px !important;
+    }
+    .loginpanel{
+
+    }
+    .search-table1{
+        margin-left: -24px !important;
+    }
+
+    #username,#password{
+
+    }
+    .path-teacher .navbar .btn-navbar {
+        display: none;
+    }
+    .navbar .btn-navbar {
+        display: none;
+    }
+    .path-teacher .navbar  .navbar-inner{
+        padding:0px;
+    }
+    .navbar  .navbar-inner{
+        padding:0px;
+    }
+    .jsenabled .usermenu .moodle-actionmenu > .menubar {
+        display: block;
+        margin: 9px 0px 2px;
+    }
+    #page{
+        margin: 0px !important;
+    }
+    #demo #courss .butn {
+        margin: 0px 20px 20px 75% !important;
+    }
+    .cooursesel {
+        display: inline-block;
+        width: 59%;
+    }
+    #cours th:nth-child(2) {
+        width: 20% !important;
+    }
+    .path-teacher{
+        padding: 0px;
+    }
+    .reports-page .filters select {
+        width: 50% !important;
+    }
+    .reports-page .filters select:nth-child(odd){
+        float: left;
+    }
+    .reports-page .filters select:nth-child(even){
+        clear: left;
+        float: left;
+
+    }
+    .reports-page #sradiv .eamrank{
+        width: 50% !important;
+    }
+    .reports-page #sradiv:nth-child(odd){
+        float: left;
+    }
+    .reports-page #sradiv:nth-child(even){
+        clear: left;
+        float: left;
+
+    }
+    .filters{
+        margin-left: 0px !important;
+    }
+    .reports-page .filters{
+        padding-bottom: 40px !important;
+    }
+    .reports-page .span2 #search{
+        margin-left: 0px !important;
+    }
+    .report #panel .tleft {
+        width: 20% !important;
+    }
+    #panel .tright{
+        width: 76.5% !important;
+    }
+    .tright .topics-div tr td:nth-child(2){
+        width: 15% !important;
+    }
+    #page-navbar:nth-child(2) b {
+        font-size: 13px !important;
+        line-height: 18px;
+    }
+    #page-navbar:nth-child(2){
+        font-size: 10px !important;
+    }
+    #flip #fl #cactivity{
+        margin-right: 10px !important;
+    }
+    #flip #fl #ctopic{
+        margin-right: 25px !important;
+    }
+    #flip #fl #ccourse{
+        margin-right: 35px !important;
+    }
+
+}
+
+@media screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait) {
+    #page-login-index {
+
+    }
+    #page-login-index #page {
+        border: 0px none;
+        margin:0px !important;
+    }
+    #page {
+
+        margin:0px !important;
+    }
+    #demo #courss .butn {
+        margin: 0px 20px 20px 75% !important;
+    }
+
+    .path-teacher .navbar .btn-navbar {
+        display: none ;
+    }
+    .navbar .btn-navbar {
+        display: none !important;
+    }
+    .path-teacher  .cooursesel {
+        display: inline-block;
+        width: 58%;
+    }
+    .path-teacher .navbar  .navbar-inner{
+        padding:0px;
+    }
+    .navbar  .navbar-inner{
+        padding:0px;
+    }
+    .jsenabled .usermenu .moodle-actionmenu > .menubar {
+        display: block;
+        margin: 9px 0px 2px;
+    }
+    #cours th:nth-child(2) {
+        width: 25% !important;
+    }
+    .path-teacher #page{
+
+        margin: 0px !important;
+
+    }
+    .path-teacher .filters {
+        margin-left: 3px;
+    }
+    .reports-page .span2{
+        width:19%;
+    }
+    .reports-page .result-tbl{
+        width: 76%;
+    }
+    .reports-page .result-tbl .span12 .span4{
+        width: 36.492%;
+    }
+    .reports-page .result-tbl .span12 .span8{
+        width: 59.746%;
+    }
+    input[type="radio"]:nth-child(3) {
+        margin-left: 30px !important;
+    }
+    .report div.tleft{
+        padding: 4px !important;
+        width: 25% !important;
+    }
+    .tright{
+        width: 72.5%;
+    }
+    .path-teacher #coursename{
+        font-size: 18px;
+    }
+    .tright .topics-div tr td:nth-child(2){
+        width: 15% !important;
+    }
+    #titile-status #ccourse{
+        margin-right: 38px;
+    }
+    #titile-status #ctopic{
+        margin-right: 61px;
+    }
+    .path-student{
+        margin-top: 72px !important;
+    }
+
+}
+@media screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape) {
+    #page-login-index #avatar-square{
+        margin-top: 28px;
+    }
+    #page-login-index #page {
+        border: 0px none;
+        margin:0px !important;
+    }
+    .path-teacher #container .butn{
+
+        margin: 0px 20px 20px 85% !important;
+    }
+    #demo #courss .butn {
+        margin: 0px 20px 20px 84% !important;
+    }
+    .path-teacher #page{
+
+        margin: 0px !important;
+
+    }
+    .path-teacher .filters {
+        margin-left: 3px;
+    }
+    input[type="radio"]:nth-child(3) {
+        margin-left: 36px !important;
+    }
+
+}
+
+
+
+
+/*************
+    Sai CSS End
+   *************/
+@media only screen and (max-width: 768px) and (orientation : portrait) {
+    .path-teacher .navbar  .navbar-inner{
+        padding:0px;
+    }
+    .navbar  .navbar-inner{
+        padding:0px;
+    }
+    .navbar .btn-navbar {
+        display: none !important;
+    }
+    .path-teacher .cooursesel{
+        margin-top:0px !important;
+    }
+}
+@media only screen and (height: 768px) and (orientation : portrait) {
+    form .status{
+        display: inline-block;
+        width: 36%;
+    }
+
+}
+@media only screen and (width: 1024px) and (orientation : landscape) {
+
+
+
+    form .status{
+        display: inline-block;
+        width: 27%;
+    }
+}
+@media only screen and (width: 768px) and (orientation : landscape) {
+
+
+
+    form .status{
+        display: inline-block;
+        width: 36% !important;
+    }
+}
+@media screen
+and (min-height : 768px)
+and (min-width : 1024px)
+{
+    .path-teacher .cooursesel{
+        margin-top:0px !important;
+    }
+    #page{
+        margin:0px !important;
+    }
+    form .status{
+        display: inline-block;
+        width: 27%;
+    }
+
+
+}
+@media screen
+and (min-width: 768px)
+and (min-height : 1024px)
+{
+    .path-teacher .cooursesel{
+        margin-top:0px !important;
+    }
+    #page{
+        margin:0px !important;
+    }
+    .cooursesel {
+        display: inline-block;
+        width: 55%;
+    }
+    form .status{
+        display: inline-block;
+    }
+    #courss .butn {
+        text-align: right !important;
+        margin: 0px 20px 20px 77% !important;
+    }
+    form .status{
+        display: inline-block;
+        width: 36%;
+    }
+
+
+}
+@media screen
+and (min-width: 800px)
+and (height : 600px)
+{
+    .path-teacher .cooursesel{
+        margin-top:0px !important;
+    }
+    form .status{
+        display: inline-block;
+        width: 58%;
+    }
+}
+@media screen
+and (height : 800px)
+and ( width: 600px)
+and (orientation :portrait){
+
+    form .status{
+        display: inline-block;
+        width: 58%;
+    }
+}
